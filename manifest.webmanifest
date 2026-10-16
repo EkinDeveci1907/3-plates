@@ -1,7 +1,7 @@
 {
-  "name": "3 Plates",
+  "name": "Ahmed’s 3 Plates",
   "short_name": "3 Plates",
-  "description": "Training log: today's lifts, set logging, rest timer, road to a 315 bench, food targets.",
+  "description": "Ahmed’s training log: today's lifts, set logging, rest timer, road to a 315 bench, food targets.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
