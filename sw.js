@@ -1,5 +1,5 @@
 // Ahmed's 3 Plates, offline support. Change VERSION whenever index.html changes.
-const VERSION = 'tpf-v7';
+const VERSION = 'tpf-v8';
 const OWN = 'tpf-'; // only ever clean up this app's own caches: the other builds share this origin
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 const CACHE_HOSTS = ['raw.githubusercontent.com'];
